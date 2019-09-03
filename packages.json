@@ -3,5 +3,10 @@
 		"package": "std",
 		"version": "0.0.1",
 		"location": "https://github.com/emperor-lang/emperor-std.git"
+	},
+	{
+		"package": "base",
+		"version": "0.0.1",
+		"location": "https://github.com/emperor-lang/base.git"
 	}
 ]
